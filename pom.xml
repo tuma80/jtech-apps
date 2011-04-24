@@ -14,8 +14,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
-  <modules>
-  	<module>jtech-guice</module>
+  <modules>  	
   	<module>using-guice</module>
   </modules>  
 </project>
