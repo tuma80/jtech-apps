@@ -9,9 +9,9 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.gcode</groupId>
-	<artifactId>jtech-guice</artifactId>
+	<artifactId>using-guice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jtech-guice</name>
+	<name>using-guice</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
