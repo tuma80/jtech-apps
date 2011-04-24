@@ -16,5 +16,6 @@
 
   <modules>
   	<module>jtech-guice</module>
-  </modules>
+  	<module>using-guice</module>
+  </modules>  
 </project>
