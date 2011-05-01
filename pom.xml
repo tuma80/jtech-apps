@@ -16,5 +16,6 @@
 
   <modules>  	
   	<module>using-guice</module>
+  	<module>using-spring-aop</module>
   </modules>  
 </project>
