@@ -19,5 +19,6 @@
   	<module>using-spring-aop</module>
   	<module>using-gof</module>
   	<module>using-spring-core</module>
+  	<module>using-cloud-spring</module>
   </modules>  
 </project>
